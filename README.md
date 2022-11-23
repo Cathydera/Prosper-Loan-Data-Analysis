@@ -25,8 +25,11 @@
 
 > The second factor considered was loan status (Current, completed, chargedoff, defaulted and past due date). It was deduced that 44.9% of the loan (51170 loans) are still running as at the time of analysis. 
 
-> Another important variable is the **"employment status"**. From this it can be deduced in which employment the borrower is, how high the monthly loan installment is and whether the borrower can repay the loan installment
-
+> Another important variable is the **"employment status"**. From this it can be deduced in which employment the borrower is, how high the monthly loan installment is and whether the borrower can repay the loan installment.
+> There were some questions popping out that might need some clarification in future. 
+- What is the difference between Employed and Full-time/Part Time?
+- There are so many 'others' occupation. This posseses a limitation to exployed further based on the hightest statics.
+-  One abnomarly was having stastics of Retired but still has Occupation as 'Others" ?
 
 ## Key Insights for Presentation
 > The focus on the presentation will be for retired people and their distributions across the rating, borrowers rate and loan instalment. 
