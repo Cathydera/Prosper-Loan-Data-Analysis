@@ -36,5 +36,5 @@
 
 
 - Effect of retirement on the prosper loan rating 
-- Monthly loan instalment for retired people
--  Borrowers rate for retired people
+- Monthly loan instalment for all occupations
+-  Relationship between Borrowers rate and prosper rating
