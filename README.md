@@ -27,8 +27,6 @@
 
 > Another important variable is the **"employment status"**. From this it can be deduced in which employment the borrower is, how high the monthly loan installment is and whether the borrower can repay the loan installment
 
-Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
-
 
 ## Key Insights for Presentation
 > The focus on the presentation will be for retired people and their distributions across the rating, borrowers rate and loan instalment. 
